@@ -1,0 +1,8 @@
+package com.ust.swiggy_app.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Swiggy {
+
+}

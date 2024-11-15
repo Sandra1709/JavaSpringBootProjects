@@ -1,0 +1,5 @@
+package com.ust.swiggy_app.repository;
+
+public interface SwiggyRepository {
+
+}

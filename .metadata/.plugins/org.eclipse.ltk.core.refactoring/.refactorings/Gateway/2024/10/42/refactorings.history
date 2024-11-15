@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FallBackController.java&apos; to &apos;cloudgateway-loadbalance/src/main/java/com.ust.gateway.Controller&apos;&#x0D;&#x0A;- Original project: &apos;Gateway&apos;&#x0D;&#x0A;- Destination element: &apos;cloudgateway-loadbalance/src/main/java/com.ust.gateway.Controller&apos;&#x0D;&#x0A;- Original element: &apos;com.ust.gateway.Controller.FallBackController.java&apos;" description="Copy compilation unit" destination="=cloudgateway-loadbalance/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ust.gateway.Controller" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ust.gateway.Controller{FallBackController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1728881277845" units="1" version="1.0"/>
+</session>

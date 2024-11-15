@@ -1,0 +1,5 @@
+package com.ust.resturant_Service.model;
+
+public class Resturant {
+
+}

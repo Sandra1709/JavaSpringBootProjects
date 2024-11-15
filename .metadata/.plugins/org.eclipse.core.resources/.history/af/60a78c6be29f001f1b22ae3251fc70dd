@@ -1,0 +1,5 @@
+package com.ust.swiggy_app.model;
+
+public class Swiggy {
+
+}
